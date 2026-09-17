@@ -1,5 +1,6 @@
 # GNOME Extensions
 
+DISCLAIMER: ⚠️ Vibe-coded with AI. Built to make my life easier, not to win a code review.
 Personal GNOME Shell extensions. Currently includes:
 
 ## nbfc-control
