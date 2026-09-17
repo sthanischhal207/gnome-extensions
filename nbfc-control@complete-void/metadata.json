@@ -1,0 +1,7 @@
+{
+  "uuid": "nbfc-control@complete-void",
+  "name": "NBFC Fan Control",
+  "description": "Toggle NBFC fan auto/manual and control speed",
+  "shell-version": ["46"],
+  "url": ""
+}
